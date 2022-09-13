@@ -1,0 +1,24 @@
+{
+  "name": "jwt-bf",
+  "version": "1.0.2",
+  "description": "JWT HS256 token brute force cracker",
+  "main": "index.js",
+  "bin": {
+    "jwt-bf": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/puwanai-s/jwt-bf"
+  },
+  "author": "Puwanai.com <puwanai.sangphon@gmail.com> (https://puwanai.com/)",
+  "license": "MIT",
+  "dependencies": {},
+  "keywords": [
+    "jwt brute force",
+    "jwt cracker nodejs",
+    "jwt loss password"
+  ]
+}
