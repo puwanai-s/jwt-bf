@@ -1,4 +1,4 @@
-# jwt-bf
+# jwt-bf : Json Web Token (JWT) brute force
 
 jwt brute force cracker via node js. supports dictionary attacks against HS256.
 
