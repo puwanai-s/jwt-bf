@@ -11,9 +11,9 @@ const wordlist = process.argv[3];
 
 if (typeof (token) === 'undefined' || token === '--help') {
    console.log(
-      `jwt-cracker version ${pkg.version}
+      `jwt-bf version ${pkg.version}
     Usage:
-      jwt-cracker <token> <wordlist>
+      jwt-bf <token> <wordlist>
       token       the full HS256 jwt token to crack
       wordlist    wordlist dictionary file
   `
